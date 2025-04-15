@@ -1,26 +1,26 @@
 <h1> Página de Login com PHP</h1>
 
 <h2>
-    O projeto é uma página de login desenvolvida em PHP utilizando Programação Orientada a Objeto
+    O projeto é uma página de login desenvolvida em PHP, HTML e CSS com Programação Orientada a Objeto.
 </h2>
 <ul>
-    <li>Faz parte de um trabalho acadêmico</li>
-    <li>Simula autenticação de um usuário</li>
-    <li>Tem utilização de sessões e cookies</li>
+    <li>Faz parte de um trabalho acadêmico.</li>
+    <li>Simula autenticação de um usuário.</li>
+    <li>Tem utilização de sessões e cookies.</li>
 </ul>
 
 <h1>
-    Funcionalidades
+    Funcionalidades:
 </h1>
 <ul>
-    <li>Autenticação de um usuário</li>
-    <li>Validação de credenciais</li>
-    <li>Uso de sessões e cookies</li>
-    <li>Redirecionamento após o login ser bem sucedido</li>
-    <li>Organização modular com POO</li>
+    <li>Autenticação de um usuário.</li>
+    <li>Validação de credenciais.</li>
+    <li>Uso de sessões e cookies.</li>
+    <li>Redirecionamento após o login ser bem sucedido.</li>
+    <li>Organização modular com POO.</li>
 </ul>
 
 <h1>/sync/classe</h1>
-<p> Aonde está localizada todas as classes de lógica</p>
+<p> Aonde está localizada todas as classes de lógica.</p>
 <h1>/sync/</h1>
-<p> Aonde está localizada todas as páginas HTML, processa_cadastro, processa_login </p>
+<p> Aonde está localizada todas as páginas HTML, processa_cadastro, processa_login. </p>
