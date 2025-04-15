@@ -20,7 +20,7 @@
     <li>Organização modular com POO.</li>
 </ul>
 
-<h2>/sync/classe</h2>
+<h2>./sync/classe</h2>
 <p> Aonde está localizada todas as classes de lógica.</p>
-<h2>/sync/</h2>
+<h2>./sync/</h2>
 <p> Aonde está localizada todas as páginas HTML, processa_cadastro, processa_login. </p>
