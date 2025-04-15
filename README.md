@@ -9,9 +9,9 @@
     <li>Tem utilização de sessões e cookies.</li>
 </ul>
 
-<h1>
+<h2>
     Funcionalidades:
-</h1>
+</h2>
 <ul>
     <li>Autenticação de um usuário.</li>
     <li>Validação de credenciais.</li>
@@ -20,7 +20,7 @@
     <li>Organização modular com POO.</li>
 </ul>
 
-<h1>/sync/classe</h1>
+<h2>/sync/classe</h2>
 <p> Aonde está localizada todas as classes de lógica.</p>
-<h1>/sync/</h1>
+<h2>/sync/</h2>
 <p> Aonde está localizada todas as páginas HTML, processa_cadastro, processa_login. </p>
